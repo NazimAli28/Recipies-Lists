@@ -169,7 +169,7 @@ dl>ol {
 }
 
 #cake {
-    background-image: url(/images/chocolate-fudge-cake.webp);
+    background-image: url(./images/chocolate-fudge-cake.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -178,7 +178,7 @@ dl>ol {
 }
 
 #cupcake {
-    background-image: url(/images/chocolate-cupcake.jpg);
+    background-image: url(./images/chocolate-cupcake.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -187,7 +187,7 @@ dl>ol {
 }
 
 #pancake {
-    background-image: url(/images/pancake.jpg);
+    background-image: url(./images/pancake.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -196,7 +196,7 @@ dl>ol {
 }
 
 #biscuit {
-    background-image: url(/images/biscuit.png);
+    background-image: url(./images/biscuit.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
